@@ -1,4 +1,4 @@
-
+# PARCIAL 2 C2 PROGRAMACIÓN COMPUTACIONAL IV
 # Descripcion
 Este proyecto consiste en una aplicación web orientada a la empresa Farmacia Brasil, la cual permite gestionar medicamentos por medio de PHP, MySQLi y una base de datos relacional. El sistema cuenta con inicio de sesión para usuarios registrados, registro de medicamentos y visualización pública de los datos almacenados, cumpliendo con los requisitos solicitados en la actividad.
 
