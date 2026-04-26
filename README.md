@@ -1,7 +1,7 @@
 # PARCIAL 2 C2 PROGRAMACIÓN COMPUTACIONAL IV
 # Integrantes: 
 
-Diego Martín López Moreno         (SMSS09824)
+Diego Martín López Moreno         (SMSS097824)
 
 Walter Alexander Ramírez Benítez (SMSS082124)
 
