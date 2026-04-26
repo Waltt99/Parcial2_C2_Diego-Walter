@@ -64,6 +64,8 @@ Esto demuestra el uso adecuado según el contexto de seguridad y funcionalidad.
 
 # Tu app va a usarse en una empresa de la zona oriental. ¿Qué riesgos de seguridad identificas en una app web con BD que maneja datos de los usuarios? ¿Cómo los mitigarían?
 
+Este proyecto es una aplicación web para la farmacía en San Miguel, ubicada en la zona oriental de El Salvador. Permite la administración eficiente mediante una interfaz segura y responsiva.
+
 En una aplicación web con base de datos que maneja datos de usuarios existen varios riesgos de seguridad. Uno de los principales es la inyección SQL, que ocurre cuando una persona intenta introducir código malicioso en los formularios para alterar consultas a la base de datos. Otro riesgo importante es el acceso no autorizado, es decir, que personas no registradas intenten entrar al sistema administrativo. También puede existir robo de credenciales, pérdida de información por errores humanos y exposición de datos sensibles.
 
 Riesgos identificados
